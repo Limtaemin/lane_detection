@@ -8,6 +8,9 @@
 - [ ]  기존 카메라 및 새로운 카메라 적용방법 및 특징, 토픽 정보 등 관련사항 정리하기
 - [ ]  차 재조립해서 웨이포인트 따라가는지 확인하기(헤딩값을 MBC가아니라 2-way 헤딩으로)
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=파일구조및코드설명&fontSize=20" />
+
 파일 구조 및 코드 설명
 * Lane_Detection_Sliding_Windows
   ** lane_detect.txt
