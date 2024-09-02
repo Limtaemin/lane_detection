@@ -7,3 +7,13 @@
 - [ ]  카메라마다 버드뷰하는거 정확히 정리해두기
 - [ ]  기존 카메라 및 새로운 카메라 적용방법 및 특징, 토픽 정보 등 관련사항 정리하기
 - [ ]  차 재조립해서 웨이포인트 따라가는지 확인하기(헤딩값을 MBC가아니라 2-way 헤딩으로)
+---
+파일 구조 및 코드 설명
+[Lane_Detection_Sliding_Windows]
+  {lane_detect.txt}: 
+  {LaneDetection.py}
+  {LaneDetection_contour.py}
+  {LaneDetection_ros.py}
+  {Video_pixel.py}
+  {camera_pixel.py}
+[MP4_Files]
